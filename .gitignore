@@ -4,5 +4,11 @@
 # Practice
 practice.ipynb
 
+# Helper Functions
+helper_functions.py
+
 # Saved Models
 models
+
+# Cache
+__pycache__
