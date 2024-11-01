@@ -10,5 +10,8 @@ helper_functions.py
 # Saved Models
 models
 
+# Data
+data
+
 # Cache
 __pycache__
