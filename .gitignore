@@ -10,6 +10,9 @@ helper_functions.py
 # Saved Models
 models
 
+# Saved resuls (tensorboard)
+runs
+
 # Data
 data
 
